@@ -1,1 +1,0 @@
-# python_static_analyzer
